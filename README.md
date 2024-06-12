@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Pianist's GitHub stats](https://github-readme-stats.vercel.app/api?username=pianist-coder&show_icons=true&include_all_commits=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pianist-coder&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pianist-coder&layout=compact)](https://github.com/pianist-coder)
